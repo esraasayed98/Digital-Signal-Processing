@@ -62,8 +62,3 @@ This is image Mixer Application by controlling the phase and magnitude for 2D im
 
 
 
-### Notes:
-
-- **I have to change the shape of the GUI a little to make it resizable and it would look a little different of this.**
-
-- **I am sorry for the huge repetition  in my code, I would try to update it as much as I can.**
