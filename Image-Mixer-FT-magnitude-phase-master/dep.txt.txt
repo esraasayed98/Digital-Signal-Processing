@@ -1,0 +1,1 @@
+install opencv: conda install -c conda-forge/label/gcc7 opencv

@@ -1,0 +1,201 @@
+2020-03-25 23:59:47,148 User added image1
+2020-03-25 23:59:47,155 The path of image1   C:/Users/GEHAD/Desktop/test.jpg
+2020-03-25 23:59:52,367 User added image2
+2020-03-25 23:59:52,371 The path of image2   C:/Users/GEHAD/Desktop/test2.jpg
+2020-03-25 23:59:54,817 User shows Phase part oF image 1
+2020-03-25 23:59:54,889 User shows Magnitude part oF image 2
+2020-03-25 23:59:56,333 User shows Imaginary part oF image 1
+2020-03-25 23:59:56,409 User shows Magnitude part oF image 2
+2020-03-25 23:59:58,723 User shows Imaginary part oF image 1
+2020-03-25 23:59:58,793 User shows Phase part oF image 2
+2020-03-26 00:00:02,807 user displayed the output of the mixer on output1
+2020-03-26 00:00:03,097 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0  and  0
+2020-03-26 00:00:04,880 Component1  selected by the user is image1
+2020-03-26 00:00:04,880 Component2  selected by the user is image1
+2020-03-26 00:00:11,053 Component1  selected by the user is image1
+2020-03-26 00:00:11,053 Component2  selected by the user is image2
+2020-03-26 00:00:16,103 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0  and  0
+2020-03-26 00:00:16,104 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:17,180 slider1  has been set to   1%
+2020-03-26 00:00:17,180 slider2  has been set to   0%
+2020-03-26 00:00:17,522 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.01  and  0.0
+2020-03-26 00:00:17,523 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:17,547 slider1  has been set to   14%
+2020-03-26 00:00:17,548 slider2  has been set to   0%
+2020-03-26 00:00:17,879 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.14  and  0.0
+2020-03-26 00:00:17,880 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:17,898 slider1  has been set to   23%
+2020-03-26 00:00:17,898 slider2  has been set to   0%
+2020-03-26 00:00:18,195 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.23  and  0.0
+2020-03-26 00:00:18,195 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:18,212 slider1  has been set to   25%
+2020-03-26 00:00:18,213 slider2  has been set to   0%
+2020-03-26 00:00:18,497 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.25  and  0.0
+2020-03-26 00:00:18,498 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:19,073 slider1  has been set to   26%
+2020-03-26 00:00:19,074 slider2  has been set to   0%
+2020-03-26 00:00:19,395 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.26  and  0.0
+2020-03-26 00:00:19,395 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:19,413 slider1  has been set to   23%
+2020-03-26 00:00:19,413 slider2  has been set to   0%
+2020-03-26 00:00:19,700 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.23  and  0.0
+2020-03-26 00:00:19,700 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:21,043 slider1  has been set to   24%
+2020-03-26 00:00:21,044 slider2  has been set to   0%
+2020-03-26 00:00:21,345 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.24  and  0.0
+2020-03-26 00:00:21,346 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:21,533 slider1  has been set to   25%
+2020-03-26 00:00:21,533 slider2  has been set to   0%
+2020-03-26 00:00:21,846 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.25  and  0.0
+2020-03-26 00:00:21,847 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:22,820 slider1  has been set to   24%
+2020-03-26 00:00:22,820 slider2  has been set to   0%
+2020-03-26 00:00:23,136 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.24  and  0.0
+2020-03-26 00:00:23,137 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:23,154 slider1  has been set to   23%
+2020-03-26 00:00:23,154 slider2  has been set to   0%
+2020-03-26 00:00:23,436 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.23  and  0.0
+2020-03-26 00:00:23,437 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:23,453 slider1  has been set to   25%
+2020-03-26 00:00:23,453 slider2  has been set to   0%
+2020-03-26 00:00:23,734 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.25  and  0.0
+2020-03-26 00:00:23,735 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:23,751 slider1  has been set to   27%
+2020-03-26 00:00:23,751 slider2  has been set to   0%
+2020-03-26 00:00:24,035 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.27  and  0.0
+2020-03-26 00:00:24,035 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:24,052 slider1  has been set to   28%
+2020-03-26 00:00:24,052 slider2  has been set to   0%
+2020-03-26 00:00:24,352 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.28  and  0.0
+2020-03-26 00:00:24,353 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:24,373 slider1  has been set to   28%
+2020-03-26 00:00:24,374 slider2  has been set to   0%
+2020-03-26 00:00:24,655 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.29  and  0.0
+2020-03-26 00:00:24,655 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:24,790 slider1  has been set to   30%
+2020-03-26 00:00:24,790 slider2  has been set to   0%
+2020-03-26 00:00:25,095 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.0
+2020-03-26 00:00:25,096 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:25,113 slider1  has been set to   31%
+2020-03-26 00:00:25,113 slider2  has been set to   0%
+2020-03-26 00:00:25,395 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.31  and  0.0
+2020-03-26 00:00:25,396 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:26,271 slider1  has been set to   30%
+2020-03-26 00:00:26,272 slider2  has been set to   0%
+2020-03-26 00:00:26,584 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.0
+2020-03-26 00:00:26,585 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:26,601 slider1  has been set to   28%
+2020-03-26 00:00:26,602 slider2  has been set to   0%
+2020-03-26 00:00:26,883 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.29  and  0.0
+2020-03-26 00:00:26,884 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:29,153 slider1  has been set to   30%
+2020-03-26 00:00:29,153 slider2  has been set to   0%
+2020-03-26 00:00:29,466 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.0
+2020-03-26 00:00:29,467 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:29,939 slider1  has been set to   31%
+2020-03-26 00:00:29,939 slider2  has been set to   0%
+2020-03-26 00:00:30,249 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.31  and  0.0
+2020-03-26 00:00:30,249 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:30,998 slider1  has been set to   30%
+2020-03-26 00:00:30,998 slider2  has been set to   0%
+2020-03-26 00:00:31,302 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.0
+2020-03-26 00:00:31,303 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:33,468 slider1  has been set to   30%
+2020-03-26 00:00:33,468 slider2  has been set to   1%
+2020-03-26 00:00:33,797 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.01
+2020-03-26 00:00:33,798 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:33,814 slider1  has been set to   30%
+2020-03-26 00:00:33,814 slider2  has been set to   20%
+2020-03-26 00:00:34,121 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.2
+2020-03-26 00:00:34,122 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:34,139 slider1  has been set to   30%
+2020-03-26 00:00:34,139 slider2  has been set to   23%
+2020-03-26 00:00:34,421 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.23
+2020-03-26 00:00:34,422 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:34,442 slider1  has been set to   30%
+2020-03-26 00:00:34,442 slider2  has been set to   25%
+2020-03-26 00:00:34,722 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.25
+2020-03-26 00:00:34,723 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:34,740 slider1  has been set to   30%
+2020-03-26 00:00:34,740 slider2  has been set to   27%
+2020-03-26 00:00:35,021 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.27
+2020-03-26 00:00:35,022 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:36,830 slider1  has been set to   30%
+2020-03-26 00:00:36,831 slider2  has been set to   28%
+2020-03-26 00:00:37,134 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.28
+2020-03-26 00:00:37,135 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:37,683 slider1  has been set to   30%
+2020-03-26 00:00:37,684 slider2  has been set to   28%
+2020-03-26 00:00:37,990 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.29
+2020-03-26 00:00:37,990 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:38,006 slider1  has been set to   30%
+2020-03-26 00:00:38,007 slider2  has been set to   30%
+2020-03-26 00:00:38,292 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.3
+2020-03-26 00:00:38,292 User selects the mode to consist of :Magnitude  and  Phase
+2020-03-26 00:00:43,684 User added image2
+2020-03-26 00:00:43,719 The path of image2   C:/Users/GEHAD/Desktop/89519283_10163042000050277_6989749542673448960_o.jpg
+2020-03-26 00:00:43,720  User tried to add image2 with different size.
+2020-03-26 00:00:50,024 User added image2
+2020-03-26 00:00:50,028 The path of image2   C:/Users/GEHAD/Desktop/test2.jpg
+2020-03-26 00:00:53,174 user displayed the output of the mixer on output2
+2020-03-26 00:00:53,458 user mixes component 1 and component2 with mode  magnitudeAndPhase  with weghits  0.3  and  0.3
+2020-03-26 00:00:55,486 Component1  selected by the user is image1
+2020-03-26 00:00:55,486 Component2  selected by the user is image2
+2020-03-26 00:00:57,320 Component1  selected by the user is image1
+2020-03-26 00:00:57,320 Component2  selected by the user is image2
+2020-03-26 00:01:00,511 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.3  and  0.3
+2020-03-26 00:01:00,512 User selects the mode to consist of :Real  and  Phase
+2020-03-26 00:01:02,264 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.3  and  0.3
+2020-03-26 00:01:02,265 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:04,645 slider1  has been set to   31%
+2020-03-26 00:01:04,646 slider2  has been set to   30%
+2020-03-26 00:01:05,004 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.31  and  0.3
+2020-03-26 00:01:05,005 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:05,022 slider1  has been set to   69%
+2020-03-26 00:01:05,022 slider2  has been set to   30%
+2020-03-26 00:01:05,348 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.69  and  0.3
+2020-03-26 00:01:05,349 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:05,373 slider1  has been set to   72%
+2020-03-26 00:01:05,373 slider2  has been set to   30%
+2020-03-26 00:01:05,649 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.72  and  0.3
+2020-03-26 00:01:05,650 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:06,388 slider1  has been set to   71%
+2020-03-26 00:01:06,389 slider2  has been set to   30%
+2020-03-26 00:01:06,689 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.71  and  0.3
+2020-03-26 00:01:06,690 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:06,706 slider1  has been set to   70%
+2020-03-26 00:01:06,706 slider2  has been set to   30%
+2020-03-26 00:01:06,958 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.3
+2020-03-26 00:01:07,039 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:07,074 slider1  has been set to   69%
+2020-03-26 00:01:07,075 slider2  has been set to   30%
+2020-03-26 00:01:07,359 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.69  and  0.3
+2020-03-26 00:01:07,360 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:07,766 slider1  has been set to   70%
+2020-03-26 00:01:07,767 slider2  has been set to   30%
+2020-03-26 00:01:08,047 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.3
+2020-03-26 00:01:08,048 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:09,691 slider1  has been set to   70%
+2020-03-26 00:01:09,692 slider2  has been set to   31%
+2020-03-26 00:01:09,972 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.31
+2020-03-26 00:01:09,972 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:09,989 slider1  has been set to   70%
+2020-03-26 00:01:09,989 slider2  has been set to   60%
+2020-03-26 00:01:10,242 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.6
+2020-03-26 00:01:10,243 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:10,260 slider1  has been set to   70%
+2020-03-26 00:01:10,260 slider2  has been set to   73%
+2020-03-26 00:01:10,511 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.73
+2020-03-26 00:01:10,512 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:11,378 slider1  has been set to   70%
+2020-03-26 00:01:11,378 slider2  has been set to   72%
+2020-03-26 00:01:11,656 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.72
+2020-03-26 00:01:11,657 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:11,730 slider1  has been set to   70%
+2020-03-26 00:01:11,730 slider2  has been set to   71%
+2020-03-26 00:01:12,009 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.71
+2020-03-26 00:01:12,010 User selects the mode to consist of :Real  and  Imaginary
+2020-03-26 00:01:14,111 slider1  has been set to   70%
+2020-03-26 00:01:14,112 slider2  has been set to   70%
+2020-03-26 00:01:14,384 user mixes component 1 and component2 with mode  realAndImaginary  with weghits  0.7  and  0.7
+2020-03-26 00:01:14,385 User selects the mode to consist of :Real  and  Imaginary
